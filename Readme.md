@@ -1,1 +1,1 @@
-Demoing some trigger ideas
+Demo some trigger ideas
